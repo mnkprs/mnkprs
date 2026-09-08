@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Manos Kaparos — Senior Software Engineer</title>
+  <desc id="desc">An engineering diagram connects an interface, an API, and an evaluation node. Based in Athens, Greece.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1000" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101824"/><stop offset="1" stop-color="#0A1018"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(836 150) rotate(90) scale(270 350)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2DD4BF" stop-opacity=".13"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#758B9F" opacity=".18"/>
+    </pattern>
+    <linearGradient id="wire" x1="663" y1="90" x2="945" y2="272" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4"/><stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+    <clipPath id="bounds"><rect width="1000" height="340" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1000" height="340" fill="url(#background)"/>
+    <rect x="620" width="380" height="340" fill="url(#grid)"/>
+    <rect width="1000" height="340" fill="url(#glow)"/>
+    <path d="M54 50H82" stroke="#5EEAD4" stroke-width="3" stroke-linecap="round"/>
+    <text x="96" y="55" fill="#B2C0CF" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="2">SENIOR SOFTWARE ENGINEER</text>
+    <text x="50" y="143" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-2.5">Manos Kaparos<tspan fill="#5EEAD4">.</tspan></text>
+    <text x="54" y="189" fill="#B2C0CF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22">Full-stack products.</text>
+    <text x="54" y="220" fill="#B2C0CF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22">Open source. Agent evaluation.</text>
+    <circle cx="59" cy="283" r="4" fill="#5EEAD4"/>
+    <text x="74" y="287" fill="#91A4B7" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="1.3">ATHENS, GR</text>
+    <text x="555" y="287" fill="#91A4B7" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12">@mnkprs</text>
+    <g stroke="#365063" stroke-width="1">
+      <rect x="681" y="58" width="252" height="222" rx="28" stroke-dasharray="3 7"/>
+      <path d="M644 168H975M807 28V310" stroke-opacity=".45"/>
+    </g>
+    <g stroke="url(#wire)" stroke-width="2">
+      <path d="M749 101H787Q807 101 807 121V149"/>
+      <path d="M807 187V218Q807 238 827 238H856"/>
+      <path d="M893 210V121Q893 101 873 101H787" opacity=".3"/>
+    </g>
+    <rect x="663" y="69" width="86" height="64" rx="14" fill="#14222D" stroke="#5EEAD4" stroke-opacity=".65"/>
+    <path d="m697 92-9 9 9 9m18-18 9 9-9 9m-10 3 4-24" stroke="#5EEAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="765" y="143" width="84" height="50" rx="12" fill="#14222D" stroke="#5EEAD4"/>
+    <text x="807" y="174" text-anchor="middle" fill="#D5F9F2" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" letter-spacing="2">API</text>
+    <rect x="856" y="210" width="78" height="56" rx="13" fill="#14222D" stroke="#60A5FA" stroke-opacity=".75"/>
+    <path d="m884 237 7 7 14-15" stroke="#93C5FD" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="807" cy="101" r="4" fill="#5EEAD4"/>
+    <circle cx="807" cy="218" r="4" fill="#60A5FA"/>
+    <text x="706" y="157" text-anchor="middle" fill="#91A4B7" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="2">BUILD</text>
+    <text x="895" y="292" text-anchor="middle" fill="#91A4B7" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="2">VERIFY</text>
+    <rect x=".5" y=".5" width="999" height="339" rx="17.5" stroke="#2A3A49"/>
+  </g>
+</svg>
