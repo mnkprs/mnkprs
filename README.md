@@ -62,14 +62,15 @@ A donation platform in development, with card-to-USDC payments, a Solidity routi
 
 ## Open source
 
-Selected upstream pull requests, with live status badges:
+My latest upstream pull requests, newest first, with live status badges:
 
 | Project | Contribution | Status |
 | :--- | :--- | :--- |
+| **[NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd)** | Preserve custom icon accessibility labels when rendering icons or changing their type. | [![PR 9934 status](https://img.shields.io/github/pulls/detail/state/NG-ZORRO/ng-zorro-antd/9934?style=flat-square&label=%239934)](https://github.com/NG-ZORRO/ng-zorro-antd/pull/9934) |
+| **[Taiga UI](https://github.com/taiga-family/taiga-ui)** | Prevent native color-input warnings for empty values while preserving Angular form state. | [![PR 14943 status](https://img.shields.io/github/pulls/detail/state/taiga-family/taiga-ui/14943?style=flat-square&label=%2314943)](https://github.com/taiga-family/taiga-ui/pull/14943) |
+| **[PatternFly](https://github.com/patternfly/patternfly-react)** | Add separate username and password autocomplete settings to LoginForm, with regression coverage. | [![PR 12644 status](https://img.shields.io/github/pulls/detail/state/patternfly/patternfly-react/12644?style=flat-square&label=%2312644)](https://github.com/patternfly/patternfly-react/pull/12644) |
 | **[ngx-formly](https://github.com/ngx-formly/ngx-formly)** | Preserve existing fields, controls, and input instances when inserting array rows. | [![PR 4197 status](https://img.shields.io/github/pulls/detail/state/ngx-formly/ngx-formly/4197?style=flat-square&label=%234197)](https://github.com/ngx-formly/ngx-formly/pull/4197) |
 | **[IBM Carbon](https://github.com/carbon-design-system/carbon)** | Wrap long strings inside modals, with regression coverage across browser engines and viewport sizes. | [![PR 23271 status](https://img.shields.io/github/pulls/detail/state/carbon-design-system/carbon/23271?style=flat-square&label=%2323271)](https://github.com/carbon-design-system/carbon/pull/23271) |
-| **[Angular GR](https://github.com/bampakoa/angular-gr)** | Update the Greek Angular documentation project to Angular 13.3.11. | [![PR 21 status](https://img.shields.io/github/pulls/detail/state/bampakoa/angular-gr/21?style=flat-square&label=%2321)](https://github.com/bampakoa/angular-gr/pull/21) |
-| **[node-binance-trader](https://github.com/bitcoinvsalts/node-binance-trader)** | Clarify the npm installation command. | [![PR 37 status](https://img.shields.io/github/pulls/detail/state/bitcoinvsalts/node-binance-trader/37?style=flat-square&label=%2337)](https://github.com/bitcoinvsalts/node-binance-trader/pull/37) |
 
 [Explore my upstream pull requests →](https://github.com/search?q=is%3Apr+author%3Amnkprs+-user%3Amnkprs&type=pullrequests)
 
