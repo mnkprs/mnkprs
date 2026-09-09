@@ -10,9 +10,8 @@
   <a href="#expertise">Expertise</a>
 </p>
 
-I'm **Manos**, a senior software engineer based in **Athens, Greece**. I build full-stack products and tools for evaluating coding agents. My work spans Angular and React interfaces, Node.js backends, mobile apps, and the tests that keep them working together.
+I'm **Manos**, a senior software engineer based in **Athens, Greece**. I build full-stack products and tools for evaluating coding agents. My work spans Angular and React interfaces, Node.js backends but I am open in any challenging opportunities regarding latest technologies.
 
-I like problems where the details matter: preserving a form's state, making a payment retry safe, or checking whether a benchmark actually rewards a correct solution.
 
 ## Selected work
 
