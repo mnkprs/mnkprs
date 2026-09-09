@@ -18,7 +18,7 @@ I like problems where the details matter: preserving a form's state, making a pa
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### [fairtask ↗](https://github.com/mnkprs/fairtask)
 
@@ -31,32 +31,6 @@ Includes reproducible evaluations, readable agent traces, and installable agent 
 <sub>TypeScript · Claude Agent SDK · Evaluation design</sub>
 
 </td>
-<td width="50%" valign="top">
-
-### [Stepover ↗](https://github.com/mnkprs/football-quizball)
-
-**Football knowledge as a competitive game.**
-
-A football quiz app for iOS and Android with ranked play, head-to-head duels, daily challenges, and logo quizzes.
-
-Work spans the interface, matchmaking, question difficulty, in-app purchases, and release automation.
-
-<sub>Angular · NestJS · Supabase · Capacitor</sub>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### [Eudaimonia ↗](https://github.com/mnkprs/Philotimo)
-
-**Follow a donation from payment to receipt.**
-
-A donation platform in development, with card-to-USDC payments, a Solidity routing contract on Base, Endaoment integration, and verifiable transaction receipts. The repository is named **Philotimo**.
-
-<sub>Next.js · React · Solidity · Foundry · Stripe</sub>
-
-</td>
 </tr>
 </table>
 
@@ -66,11 +40,11 @@ My latest upstream pull requests, newest first, with live status badges:
 
 | Project | Contribution | Status |
 | :--- | :--- | :--- |
-| **[NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd)** | Preserve custom icon accessibility labels when rendering icons or changing their type. | [![PR 9934 status](https://img.shields.io/github/pulls/detail/state/NG-ZORRO/ng-zorro-antd/9934?style=flat-square&label=%239934)](https://github.com/NG-ZORRO/ng-zorro-antd/pull/9934) |
-| **[Taiga UI](https://github.com/taiga-family/taiga-ui)** | Prevent native color-input warnings for empty values while preserving Angular form state. | [![PR 14943 status](https://img.shields.io/github/pulls/detail/state/taiga-family/taiga-ui/14943?style=flat-square&label=%2314943)](https://github.com/taiga-family/taiga-ui/pull/14943) |
-| **[PatternFly](https://github.com/patternfly/patternfly-react)** | Add separate username and password autocomplete settings to LoginForm, with regression coverage. | [![PR 12644 status](https://img.shields.io/github/pulls/detail/state/patternfly/patternfly-react/12644?style=flat-square&label=%2312644)](https://github.com/patternfly/patternfly-react/pull/12644) |
-| **[ngx-formly](https://github.com/ngx-formly/ngx-formly)** | Preserve existing fields, controls, and input instances when inserting array rows. | [![PR 4197 status](https://img.shields.io/github/pulls/detail/state/ngx-formly/ngx-formly/4197?style=flat-square&label=%234197)](https://github.com/ngx-formly/ngx-formly/pull/4197) |
-| **[IBM Carbon](https://github.com/carbon-design-system/carbon)** | Wrap long strings inside modals, with regression coverage across browser engines and viewport sizes. | [![PR 23271 status](https://img.shields.io/github/pulls/detail/state/carbon-design-system/carbon/23271?style=flat-square&label=%2323271)](https://github.com/carbon-design-system/carbon/pull/23271) |
+| **[Spartan](https://github.com/spartan-ng/spartan)** | Add browser regression coverage for Escape dismissal of nested popovers with tooltips. | [![PR 1738 status](https://img.shields.io/github/pulls/detail/state/spartan-ng/spartan/1738?style=flat-square&label=%231738)](https://github.com/spartan-ng/spartan/pull/1738) |
+| **[ng-select](https://github.com/ng-select/ng-select)** | Initialize selection state for asynchronously loaded options so accessibility attributes are present on first render. | [![PR 2883 status](https://img.shields.io/github/pulls/detail/state/ng-select/ng-select/2883?style=flat-square&label=%232883)](https://github.com/ng-select/ng-select/pull/2883) |
+| **[TanStack Query](https://github.com/TanStack/query)** | Untrack initial client and options reads in Solid Query hooks to prevent accidental reactive dependencies. | [![PR 11456 status](https://img.shields.io/github/pulls/detail/state/TanStack/query/11456?style=flat-square&label=%2311456)](https://github.com/TanStack/query/pull/11456) |
+| **[Mantine](https://github.com/mantinedev/mantine)** | Ensure each Escape keypress closes only the top modal or drawer in a stack. | [![PR 9188 status](https://img.shields.io/github/pulls/detail/state/mantinedev/mantine/9188?style=flat-square&label=%239188)](https://github.com/mantinedev/mantine/pull/9188) |
+| **[ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap)** | Restore AM/PM button styling in the timepicker with a class supported by Bootstrap 4 and 5. | [![PR 6831 status](https://img.shields.io/github/pulls/detail/state/valor-software/ngx-bootstrap/6831?style=flat-square&label=%236831)](https://github.com/valor-software/ngx-bootstrap/pull/6831) |
 
 [Explore my upstream pull requests →](https://github.com/search?q=is%3Apr+author%3Amnkprs+-user%3Amnkprs&type=pullrequests)
 
