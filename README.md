@@ -39,11 +39,11 @@ My latest upstream pull requests, newest first, with live status badges:
 
 | Project | Contribution | Status |
 | :--- | :--- | :--- |
+| **[Radix NG](https://github.com/radix-ng/primitives)** | Keep the Popper arrow visible when the popup shifts off-center, exposing data-uncentered for styling instead of silently hiding it. | [![PR 460 status](https://img.shields.io/github/pulls/detail/state/radix-ng/primitives/460?style=flat-square&label=%23460)](https://github.com/radix-ng/primitives/pull/460) |
 | **[Effect](https://github.com/Effect-TS/effect)** | Fail an active multipart file part when the request body stream errors, instead of hanging until the consumer times out. | [![PR 8207 status](https://img.shields.io/github/pulls/detail/state/Effect-TS/effect/8207?style=flat-square&label=%238207)](https://github.com/Effect-TS/effect/pull/8207) |
 | **[UnoCSS](https://github.com/unocss/unocss)** | Applies stacked variants left to right in preset-wind4, matching Tailwind v4, behind a new `variantApplyOrder` option. | [![PR 5332 status](https://img.shields.io/github/pulls/detail/state/unocss/unocss/5332?style=flat-square&label=%235332)](https://github.com/unocss/unocss/pull/5332) |
 | **[Spartan](https://github.com/spartan-ng/spartan)** | Keep a dialog's disableClose and closeOnOutsidePointerEvents inputs live while it is open, so unsaved-changes guards can block Escape and backdrop dismissal. | [![PR 1743 status](https://img.shields.io/github/pulls/detail/state/spartan-ng/spartan/1743?style=flat-square&label=%231743)](https://github.com/spartan-ng/spartan/pull/1743) |
 | **[Storybook](https://github.com/storybookjs/storybook)** | Remove comment lines from the docs' shell snippets so the Copy button copies only runnable commands. | [![PR 36268 status](https://img.shields.io/github/pulls/detail/state/storybookjs/storybook/36268?style=flat-square&label=%2336268)](https://github.com/storybookjs/storybook/pull/36268) |
-| **[Spartan](https://github.com/spartan-ng/spartan)** | Add browser regression coverage for Escape dismissal of nested popovers with tooltips. | [![PR 1738 status](https://img.shields.io/github/pulls/detail/state/spartan-ng/spartan/1738?style=flat-square&label=%231738)](https://github.com/spartan-ng/spartan/pull/1738) |
 
 [Explore my upstream pull requests →](https://github.com/search?q=is%3Apr+author%3Amnkprs+-user%3Amnkprs&type=pullrequests)
 
