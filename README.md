@@ -39,11 +39,11 @@ My latest upstream pull requests, newest first, with live status badges:
 
 | Project | Contribution | Status |
 | :--- | :--- | :--- |
+| **[Analog](https://github.com/analogjs/analog)** | Transpile decorated Angular files skipped by the compiler with TypeScript instead of OXC/esbuild in Vitest, fixing a coverage PARSE_ERROR on untested components. | [![PR 2567 status](https://img.shields.io/github/pulls/detail/state/analogjs/analog/2567?style=flat-square&label=%232567)](https://github.com/analogjs/analog/pull/2567) |
 | **[Transloco](https://github.com/jsverse/transloco)** | Render interpolated param values like UUIDs literally in the MessageFormat transpiler, instead of parsing their braces as ICU syntax and throwing. | [![PR 1018 status](https://img.shields.io/github/pulls/detail/state/jsverse/transloco/1018?style=flat-square&label=%231018)](https://github.com/jsverse/transloco/pull/1018) |
 | **[ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap)** | Emit null instead of undefined when the datepicker input is cleared, fixing a crash with Angular signal forms. | [![PR 6833 status](https://img.shields.io/github/pulls/detail/state/valor-software/ngx-bootstrap/6833?style=flat-square&label=%236833)](https://github.com/valor-software/ngx-bootstrap/pull/6833) |
 | **[Radix NG](https://github.com/radix-ng/primitives)** | Keep the Popper arrow visible when the popup shifts off-center, exposing data-uncentered for styling instead of silently hiding it. | [![PR 460 status](https://img.shields.io/github/pulls/detail/state/radix-ng/primitives/460?style=flat-square&label=%23460)](https://github.com/radix-ng/primitives/pull/460) |
 | **[UnoCSS](https://github.com/unocss/unocss)** | Applies stacked variants left to right in preset-wind4, matching Tailwind v4, behind a new `variantApplyOrder` option. | [![PR 5332 status](https://img.shields.io/github/pulls/detail/state/unocss/unocss/5332?style=flat-square&label=%235332)](https://github.com/unocss/unocss/pull/5332) |
-| **[Spartan](https://github.com/spartan-ng/spartan)** | Keep a dialog's disableClose and closeOnOutsidePointerEvents inputs live while it is open, so unsaved-changes guards can block Escape and backdrop dismissal. | [![PR 1743 status](https://img.shields.io/github/pulls/detail/state/spartan-ng/spartan/1743?style=flat-square&label=%231743)](https://github.com/spartan-ng/spartan/pull/1743) |
 
 [Explore my upstream pull requests →](https://github.com/search?q=is%3Apr+author%3Amnkprs+-user%3Amnkprs&type=pullrequests)
 
