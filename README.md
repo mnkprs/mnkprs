@@ -39,11 +39,11 @@ My latest upstream pull requests, newest first, with live status badges:
 
 | Project | Contribution | Status |
 | :--- | :--- | :--- |
+| **[Vikunja](https://github.com/go-vikunja/vikunja)** | Hide the app update and add-to-home-screen banners on the login page, showing them only once someone is logged in. | [![PR 3964 status](https://img.shields.io/github/pulls/detail/state/go-vikunja/vikunja/3964?style=flat-square&label=%233964)](https://github.com/go-vikunja/vikunja/pull/3964) |
 | **[ngx-mask](https://github.com/NepipenkoIgor/ngx-mask)** | Let the mask directive bind Angular signal-form fields typed as number or nullable, fixing a template type error that only string fields escaped. | [![PR 1652 status](https://img.shields.io/github/pulls/detail/state/NepipenkoIgor/ngx-mask/1652?style=flat-square&label=%231652)](https://github.com/NepipenkoIgor/ngx-mask/pull/1652) |
 | **[Analog](https://github.com/analogjs/analog)** | Document the coverage.include vs tsconfig include mismatch that drops untested decorated components from Vitest coverage with a parse error. | [![PR 2569 status](https://img.shields.io/github/pulls/detail/state/analogjs/analog/2569?style=flat-square&label=%232569)](https://github.com/analogjs/analog/pull/2569) |
 | **[Transloco](https://github.com/jsverse/transloco)** | Render interpolated param values like UUIDs literally in the MessageFormat transpiler, instead of parsing their braces as ICU syntax and throwing. | [![PR 1018 status](https://img.shields.io/github/pulls/detail/state/jsverse/transloco/1018?style=flat-square&label=%231018)](https://github.com/jsverse/transloco/pull/1018) |
 | **[ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap)** | Emit null instead of undefined when the datepicker input is cleared, fixing a crash with Angular signal forms. | [![PR 6833 status](https://img.shields.io/github/pulls/detail/state/valor-software/ngx-bootstrap/6833?style=flat-square&label=%236833)](https://github.com/valor-software/ngx-bootstrap/pull/6833) |
-| **[Radix NG](https://github.com/radix-ng/primitives)** | Keep the Popper arrow visible when the popup shifts off-center, exposing data-uncentered for styling instead of silently hiding it. | [![PR 460 status](https://img.shields.io/github/pulls/detail/state/radix-ng/primitives/460?style=flat-square&label=%23460)](https://github.com/radix-ng/primitives/pull/460) |
 
 [Explore my upstream pull requests →](https://github.com/search?q=is%3Apr+author%3Amnkprs+-user%3Amnkprs&type=pullrequests)
 
