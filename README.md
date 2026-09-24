@@ -39,11 +39,11 @@ My latest upstream pull requests, newest first, with live status badges:
 
 | Project | Contribution | Status |
 | :--- | :--- | :--- |
+| **[NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd)** | Stop server-side tables from refetching when a column is shown or hidden, by firing nzQueryParams only when page, sort or filter actually change. | [![PR 9985 status](https://img.shields.io/github/pulls/detail/state/NG-ZORRO/ng-zorro-antd/9985?style=flat-square&label=%239985)](https://github.com/NG-ZORRO/ng-zorro-antd/pull/9985) |
 | **[NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd)** | Stop Escape from closing the image preview when keyboard handling is turned off with nzKeyboard, as the docs promise. | [![PR 9983 status](https://img.shields.io/github/pulls/detail/state/NG-ZORRO/ng-zorro-antd/9983?style=flat-square&label=%239983)](https://github.com/NG-ZORRO/ng-zorro-antd/pull/9983) |
 | **[Vikunja](https://github.com/go-vikunja/vikunja)** | Hide the app update and add-to-home-screen banners on the login page, showing them only once someone is logged in. | [![PR 3964 status](https://img.shields.io/github/pulls/detail/state/go-vikunja/vikunja/3964?style=flat-square&label=%233964)](https://github.com/go-vikunja/vikunja/pull/3964) |
 | **[ngx-mask](https://github.com/NepipenkoIgor/ngx-mask)** | Let the mask directive bind Angular signal-form fields typed as number or nullable, fixing a template type error that only string fields escaped. | [![PR 1652 status](https://img.shields.io/github/pulls/detail/state/NepipenkoIgor/ngx-mask/1652?style=flat-square&label=%231652)](https://github.com/NepipenkoIgor/ngx-mask/pull/1652) |
 | **[Analog](https://github.com/analogjs/analog)** | Document the coverage.include vs tsconfig include mismatch that drops untested decorated components from Vitest coverage with a parse error. | [![PR 2569 status](https://img.shields.io/github/pulls/detail/state/analogjs/analog/2569?style=flat-square&label=%232569)](https://github.com/analogjs/analog/pull/2569) |
-| **[Transloco](https://github.com/jsverse/transloco)** | Render interpolated param values like UUIDs literally in the MessageFormat transpiler, instead of parsing their braces as ICU syntax and throwing. | [![PR 1018 status](https://img.shields.io/github/pulls/detail/state/jsverse/transloco/1018?style=flat-square&label=%231018)](https://github.com/jsverse/transloco/pull/1018) |
 
 [Explore my upstream pull requests →](https://github.com/search?q=is%3Apr+author%3Amnkprs+-user%3Amnkprs&type=pullrequests)
 
